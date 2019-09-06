@@ -1,0 +1,101 @@
+Incubus,Muse
+Kasabian,Muse
+Arctic Monkeys,Placebo
+Kings of Leon,The Killers
+Red Hot Chili Peppers,The Killers
+Muse,Snow Patrol
+Lady Gaga,Lily Allen
+MGMT,The Beatles
+Foo Fighters,Radiohead
+Foo Fighters,Nirvana
+Nirvana,Pearl Jam
+The Killers,The Strokes
+Iron Maiden,Metallica
+Nirvana,Placebo
+Pearl Jam,Radiohead
+Placebo,The Killers
+Metallica,System of a Down
+Ke$ha,Lady Gaga
+Muse,The Cure
+Coldplay,Placebo
+Franz Ferdinand,The Beatles
+David Bowie,The Beatles
+Muse,Queen
+Radiohead,Red Hot Chili Peppers
+Coldplay,Lady Gaga
+Nirvana,Oasis
+Muse,The Kooks
+Kings of Leon,Radiohead
+Arctic Monkeys,MGMT
+Foo Fighters,Red Hot Chili Peppers
+Arctic Monkeys,Nirvana
+Arctic Monkeys,The Kooks
+The Cure,The Smiths
+David Bowie,Radiohead
+30 Seconds to Mars,Muse
+Arctic Monkeys,Franz Ferdinand
+Death Cab for Cutie,The Beatles
+Led Zeppelin,Pink Floyd
+Franz Ferdinand,Radiohead
+Radiohead,The Strokes
+Death Cab for Cutie,Muse
+The Beatles,The Smiths
+The Beatles,The Strokes
+Metallica,Muse
+Linkin Park,Muse
+Oasis,Radiohead
+Death Cab for Cutie,Radiohead
+Foo Fighters,Muse
+Nirvana,Red Hot Chili Peppers
+Lady Gaga,The Beatles
+Queen,The Beatles
+Red Hot Chili Peppers,The Beatles
+Coldplay,Nirvana
+Arctic Monkeys,Oasis
+The Beatles,The Rolling Stones
+Coldplay,Oasis
+Radiohead,The Cure
+Green Day,Muse
+Lady Gaga,Rihanna
+Britney Spears,Lady Gaga
+Lady Gaga,Paramore
+Oasis,The Beatles
+Oasis,The Killers
+Muse,The Strokes
+Franz Ferdinand,Muse
+Coldplay,Red Hot Chili Peppers
+Arctic Monkeys,Kings of Leon
+MGMT,Muse
+Muse,System of a Down
+Muse,Oasis
+Led Zeppelin,The Beatles
+Radiohead,The Killers
+The Beatles,The Killers
+Placebo,Radiohead
+Radiohead,The Smiths
+Coldplay,Kings of Leon
+Muse,Red Hot Chili Peppers
+Muse,Pink Floyd
+Nirvana,Radiohead
+Pink Floyd,Radiohead
+Lady Gaga,Muse
+Kings of Leon,Muse
+Arctic Monkeys,The Strokes
+Muse,Paramore
+Arctic Monkeys,The Beatles
+Arctic Monkeys,The Killers
+Coldplay,The Beatles
+Arctic Monkeys,Radiohead
+Coldplay,The Killers
+Arctic Monkeys,Coldplay
+Pink Floyd,The Beatles
+Nirvana,The Beatles
+Muse,Nirvana
+Coldplay,Radiohead
+Muse,Placebo
+Muse,The Killers
+Coldplay,Muse
+Arctic Monkeys,Muse
+Muse,The Beatles
+Muse,Radiohead
+Radiohead,The Beatles

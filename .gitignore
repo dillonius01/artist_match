@@ -22,4 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 song_match-*.tar
 
+# Ignore Elixir LS plugin
 .elixir_ls/*
+
+# Ignore compiled cli program
+artist_match
