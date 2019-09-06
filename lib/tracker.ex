@@ -36,7 +36,7 @@ defmodule ArtistMatch.Tracker do
   Takes a list of ordered 2-tuple matches and a tracker struct.
   Accumulates the new matches and returns the updated tracker.
   """
-  def track_list_of_matches(matches, tracker) when is_list(matches) do
+  def track_list_of_matches(matches, %__MODULE__{} = tracker) when is_list(matches) do
     matches
     |> Enum.reduce(tracker, fn match, inner_tracker ->
       track_single_match(match, inner_tracker)
@@ -47,7 +47,7 @@ defmodule ArtistMatch.Tracker do
   Receives a list of comma-separated artists and a tracker struct
   Returns a `%ArtistMatch.Tracker{}` with all matches accounted for
   """
-  def find_and_track_all_matches(artist_list, initial_tracker) do
+  def find_and_track_all_matches(artist_list, %__MODULE__{} = initial_tracker) do
     artist_list
     |> Enum.reduce(initial_tracker, fn line, tracker ->
       line
