@@ -15,7 +15,7 @@ NOTE: you may need to refresh your shell session so that the `mix` command is in
 
 
 ## Running the Program
-1. `git clone https://github.com/dillonius01/artist_match`
+1. `git clone https://github.com/dillonius01/artist_match.git`
 1. `cd artist_match`
 1. `mix do deps.get, compile`
 1. `mix escript.build`
