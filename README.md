@@ -60,19 +60,19 @@ But by the second outer iteration, we only generate the following pairs:
   [1,4]
 ]
 ```
-
-Thus, our Big-O per line is `O(m * ln(m))` where `m` is the length of the line.
+The average runtime performance is therefore `O(m * m/2)`, as we do reduce `m` on 
+the inner iteration. However, that 1/2 is a constant, so the performance is still `O(m^2)`
 
 #### Summary
 Given length of file `n` and length of line `m`, the runtime performance is:
-`O(n * m * ln(m))`
+`O(n * m ^ 2)`
 
 
 ## Optimizations
 #### Generating Permutations
 There is a naive implementation of `generate_permutations` whose runtime is
 `O(m^2)` where `m` is the length of a given line of input.
-However, this program implements the more optimized version.
+However, this program implements a slightly more optimized version.
 
 #### Tracking Results
 When accumulating the found pairs, we could only track the matched artists
